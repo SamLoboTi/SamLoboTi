@@ -1,3 +1,7 @@
+<!-- Banner Universo -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/SamLoboTi/banner-tech-universo.png" alt="Tech Stack Universo" width="100%" />
+</div>
 ## 🧠 Tech Stack & Ferramentas
 
 <div align="center">
