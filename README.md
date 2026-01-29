@@ -1,7 +1,8 @@
 <!-- Banner Universo -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/SamLoboTi/banner-tech-universo.png" alt="Tech Stack Universo" width="100%" />
+<img src="[https://user-images.githubusercontent.com/SamLoboTi/banner-tech-universo.png" alt="Tech Stack Universo](https://github.com/SamLoboTi/LOGIMAX.PROJETO-/issues/1#issue-3872785045)" width="100%" />
 </div>
+
 ## 🧠 Tech Stack & Ferramentas
 
 <div align="center">
